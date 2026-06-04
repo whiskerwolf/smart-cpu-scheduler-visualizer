@@ -74,7 +74,7 @@ smart-cpu-scheduler/
 1. Clone the repository:
 
 ```bash
-git clone <your_repo_link>
+git clone https://github.com/whiskerwolf/smart-cpu-scheduler-visualizer.git
 ```
 
 2. Install dependencies:
